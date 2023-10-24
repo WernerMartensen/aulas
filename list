@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilolista.css">
+</head>
+<body>
+
+    <ul class="alternada">
+        <li class="um">Item 1</li>
+        <li class="dois">Item 2</li>
+        <li class="tres">Item 3</li>
+        <li class="quatro">Item 4</li>
+        <li class="cinco">Item 5</li>
+    </ul>
+    
+</body>
+</html>
